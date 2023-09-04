@@ -82,4 +82,7 @@
    • If your GPU has a cord to connect power, plug that into the corresponding slot into the PSU
    .![Untitled](https://github.com/praveenst13/Assembling-the-system/assets/118787793/a8302f36-bd18-4174-9e60-46f251948a00)
 ## output:
+After assembling 
+![Assembled-Desktop-Computer-10th-Gen](https://github.com/praveenst13/Assembling-the-system/assets/118787793/efcb02a0-5d34-4df3-a4e7-8d8bbb7ce6dc)
+
 ## result:
