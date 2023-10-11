@@ -43,7 +43,7 @@
   
   • After the CPU is in the housing, close the latch on the housing. This part may need to be forced and some motherboards come with a plastic piece that will pop off the front once closed, this part should be saved.
   
- ![slejven-djurakovic-0uXzoEzYZ4I-unsplash](https://github.com/praveenst13/Assembling-the-system/assets/118787793/e62bc316-966b-491d-9687-25780a7bbc82)
+
  
 ### Step 3: Applying Thermal Paste/ Installing the cooling system
    • After the CPU is installed apply a pea-sized amount of thermal paste directly in the center of the front of the CPU. If too much is applied, it will spill over and this can be cleaned with rubbing alcohol and a cotton swab/ paper towel.
@@ -81,7 +81,7 @@
    
    • This part only applies if you are using an all-in-one cooling system. Once you have your fans installed, attach the radiator to the main fans/fan, the radiator tends to be large, so you’ll want to make sure there is enough space for it.
    
-   ![alexandru-bogdan-ghita-iXXfSw_1J9k-unsplash](https://github.com/praveenst13/Assembling-the-system/assets/118787793/7eb5f9b0-cbc4-4b22-b29d-7a92660cd8fe)
+
 ### Step 7: Installing the power supply unit (PSU)
 
    • Slide the PSU into the designated location and make sure the fan is oriented pointing outside the case.
