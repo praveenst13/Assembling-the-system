@@ -52,7 +52,7 @@
    
    • Plug in the cooling system into the motherboard that is labeled ‘CPU fan’ or ‘CPU fan header’ to power the system, if an all-in-one system is being used there should be a place labeled ‘AIO pump’ to plug a second cable in to
    
- ![7-3+What+is+the+best+thermal+paste+pattern+Actual+Performance+Comparison1](https://github.com/praveenst13/Assembling-the-system/assets/118787793/751a41be-5fbe-4887-a0d2-bb2f840c02de)
+
 
 ### Step 4: Installing the Solid-State Drive (SSD) or Hard disk drive
 
