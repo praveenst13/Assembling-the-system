@@ -1,4 +1,4 @@
-#### OS-EX-1-Assembling-the-System---CASE-STUDY 
+### OS-EX-1-Assembling-the-System---CASE-STUDY 
 ## Aim:
    To assemble the system 
 ## Materials Requeried :
